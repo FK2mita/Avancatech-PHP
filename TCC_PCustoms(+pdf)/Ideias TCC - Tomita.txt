@@ -1,0 +1,39 @@
+Ideias TCC - Tomita
+
+
+1 - site de personalização de notebook ou desktop-portátil:
+
+a) Marca PCustoms;
+
+b) começar com nome personalizado do modelo;
+
+c) escolha as peças da composição do notebook:
+- processador (CPU);
+- qtde ram (8 GB, 16 GB, 32 GB, 64 GB, 128 GB);
+- placa de vídeo (RTX serie 40, RTX serie 50);
+- slots de SSD (512 GB, 1 TB, 2 TB, 4 TB);
+- qtde Cooler (qtde ventoinhas);
+- tamanho de tela (15", 16", 17", 18");
+- tela touch removível [sim ou não];
+- teclado rgb [sim ou não];
+- portas USB (tipos_de_usb.png);
+	qtde de portas pode ser seleção de opções;
+	limitação para até 5 portas;
+- conector HDMI;
+- conector Ethernet;
+- porta P2 [fone/headset];
+- câmera HDR FHD (com ou sem infravermelho);
+
+d) opções de sistemas operacionais e softwares:
+- Sistema Operacional (Windows 11);
+- Pacote Office (Home basic, professional, não);
+
+e) opções de pacotes de periféricos:
+- mouse (com cabo, bluetooth, wi-fi);
+- headset (com cabo, bluetooth, wi-fi) com microfone;
+- base ventilada;
+
+f) cálculo do valor final;
+- somatória do custo total do produto.
+
+g) possibilidade de uma peça da composição está em falta no estoque!!!

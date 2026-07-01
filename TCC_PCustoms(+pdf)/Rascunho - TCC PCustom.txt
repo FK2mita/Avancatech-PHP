@@ -1,0 +1,13 @@
+Rascunho - TCC PCustom
+
+Ao longo da história, a humanidade criou diversas ferramentas complexas para facilitar a realização de serviços essenciais ao cotidiano de cada indivíduo, com finalidade de gerar conforto. Uma dessas ferramentas é o computador, um dispositivo que executa programas de diversas funções e utilidades, e particular para cada portador. 
+
+
+A particularidade pode ser explicada pelo livre arbítrio, a capacidade humana de decidir e agir de forma autônoma, sem interferência externa, ao ter preferência entre diferentes alternativas. 
+
+
+A globalização facilitou a criação, adaptação e disponibilidade de novas tecnologias de componentes para computadores, porém, as marcas consolidadas no mercado mundial vendem somente conjuntos fixos, e nenhuma plataforma de vendas que esteja disposta a construir máquinas personalizadas para cada consumidor.
+exclusividade / intimidade.
+
+
+A PCustom é uma plataforma de personalização e compra, com intuito de atender as necessidades e preferências de cada possível consumidor. A plataforma apresenta os componentes de computador, com respectivas características como marca, fabricante, preço e estoque disponível. Contudo, a placa-mãe é o único componente indisponível para alteração devido a limitações quanto aos componentes que poderão ser instalados.
