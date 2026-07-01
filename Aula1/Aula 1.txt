@@ -1,0 +1,46 @@
+PHP
+
+Aula 1
+
+
+
+- Programador back-end
+	"De trás do programa"
+
+[front-end]: ao criar um app, outro usuário utilizará ("aquilo que o usuário enxerga" |"interação com usuário")
+
+[html]: para abrir o site
+
+[css]: junto com "html", criação de layout de site (contém as ferramentas para html)
+
+agente de IA: automatizar funções; mais orgânico (interativo) que bots
+ex: n8n
+
+
+
+
+
+- IDE (plataformas de desenvolvimento)
+
+Para escrever o código da linguagem PHP
+
+compilar = rodar código/programação
+
+
+
+
+
+- POO (Programação Orientada a Objetos)
+
+- Classe
+
+Armazenar objetos
+
+
+
+- php 8.5 (8.5.1)
+
+obs: html fora e antes do <?php?>
+
+
+
